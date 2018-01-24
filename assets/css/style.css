@@ -1,0 +1,44 @@
+
+body {
+	background: black;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Aladin', cursive;
+	color: darkgray;
+	background-color: black;
+}
+
+.container {
+
+}
+
+img {
+	width: 100%;
+}
+
+#image-box {
+    /*background: url("../images/TurkeyBazaar.jpg");*/
+    width: 100%;
+   	max-width: 1100px;
+	height: 734px;
+
+}
+#display-area {
+	/*background-color: black;*/
+	position: fixed;
+	bottom: 0;
+}
+
+
+#crystals {
+	background-color: black;
+	width: 60%;
+	margin: auto;
+}
+
+.crystal-image {
+	width: 20%;
+	padding: 10px;
+}
